@@ -1,1 +1,1 @@
-# Repository for CS374
+# CS374
