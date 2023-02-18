@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Scrolling Text</string>
+    <string name="article_title">OverClock</string>
+    <string name="article_subtitle">Bastion is missing bullets?</string>
+    <string name="article_text">
+        Drop into season three to explore the depths of the coolest new control map, Antarctic Peninsula.
+        Compete in limited-time in-game events, such as Ultimate Valentine.
+        \nCustomize your heroes with new skins and cosmetics from the Battle Pass and weekly Shop drops.
+        \nNow earn Credits in the Battle Pass that can be redeemed for over 250 cosmetics from the original Overwatch, and go premium to get exclusive rewards, such as Mythic Amaterasu Kiriko.
+        \nDeveloper Comment: In similar fashion to Roadhog\'s Chain Hook combo changes last season, we\'d generally like to avoid heroes in the Tank role from killing enemies in one shot.
+        \nEarthshatter direct hit damage is being reduced with that goal in mind.
+        \nIn most cases, targets on the receiving end would die anyway during the knockdown stun, but it does open up some potential for their allies to intervene.
+        \nFor now, we\'re fine with Charge pin staying lethal to many characters due to the difficulty and risk involved.
+        \nThe Fire Strike damage increase does mean it could once again one-shot when combined with Baptiste\'s Amplification Matrix, but that requires an ultimate combo with another hero. We\'ll see how it plays out and adjust if necessary.
+        \nThe Rocket Hammer knockback reduction sounds like a loss of power though it is actually aiming to reduce the number of times Reinhardt accidentally knocks enemies out of his melee range.</string>
+</resources>
