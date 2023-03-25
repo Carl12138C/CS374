@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ConversionCarlCai#1</string>
+    <string name="carl_cai">Carl Cai</string>
+    <string name="miles_to_km">Miles to KM</string>
+    <string name="convert">Convert</string>
+    <string name="input_hint">Enter Input</string>
+    <string name="output_display">Output</string>
+    <string name="km_unit">km</string>
+    <string name="miles_unit">miles</string>
+    <string name="output_default">0</string>
+    <string name="input_display">Input</string>
+</resources>
